@@ -1,0 +1,25 @@
+main{
+    text-align: center;
+    color: black;
+    padding: 30px;
+
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    /* font-family:Georgia, 'Times New Roman', Times, serif */
+
+}
+.purple{
+    color: #899dd9;
+}
+.appstore img{
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.mockup img{
+    /* width: 500px; */
+    /* height: 500px; */
+    width: 40%;
+}

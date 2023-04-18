@@ -1,0 +1,126 @@
+.serviz{
+    margin-top: -100px;
+    position: relative;
+    z-index: 10;
+}
+.services{
+    display: flex;
+    background-color: #899dd9;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.service1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service1 h2{
+    padding-right: 30px;
+    font-size: 50px;
+}
+.service2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service2 h2{
+    padding-right: 30px;
+    font-size: 50px;
+}
+.service3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.service3 h2{
+    padding-right: 30px;
+    font-size: 50px;
+
+}
+.vertical-line{
+    border-left: 2px solid #fff;
+    height: 40px;
+    margin-left: 150px;
+}
+
+.partners{
+    margin-top: 50px;
+}
+.partners-logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.partners p{
+    text-align: center;
+    color: black;
+    font-weight: 500;
+}
+
+.partners-logo img{
+    width: 100px;
+    cursor: pointer;
+}
+
+.why-us{
+    margin-top: 50px;
+}
+
+.why-us p{
+    color: #899dd9;
+    text-align: center;
+}
+
+.why-us h3{
+    color: black;
+    text-align: center;
+}
+.money-flow{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+
+.numbers h2{
+    background-color: #899dd9;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.money-flow-text{
+    display: flex;
+    margin-top: 80px;
+    
+}
+
+.text1{
+    width: 500px;
+    padding-left: 20px;
+    margin-top: -20px;
+    padding-bottom: 50px;
+}
+.text1 h4{
+    font-weight: bold;
+}
+
+.text1 p{
+    color: black;
+}

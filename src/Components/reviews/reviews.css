@@ -1,0 +1,41 @@
+.head{
+    text-align: center;
+    color: #899dd9;
+}
+
+.testimonial h2{
+    text-align: center;
+    font-weight: bold;
+}
+.customer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 30px; */
+    background-color: rgb(243, 208, 243);
+    border-radius: 10px;
+    width: 95%;
+    margin-left: 35px;
+    /* margin-bottom: 10px; */
+    margin-top: 30px;
+}
+
+.customer-img{
+    width: 40%;
+}
+
+.customer-text{
+    width: 60%;
+    padding-right: 200px;
+}
+
+.customer-img img{
+    height: 400px;
+    width: 300px;
+    border-radius: 10px 0 0 10px;
+}
+
+.arrow i{
+    padding-right: 10px;
+}
+
